@@ -5,7 +5,7 @@
   align-items: center;
   margin-left: 64px;
   max-width: 730px;
-  max-height: 64px;
+  min-height: 64px;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
